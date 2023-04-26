@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDASPNETCORE_SP_1TABLA", "CRUDASPNETCORE_SP_1TABLA\CRUDASPNETCORE_SP_1TABLA.csproj", "{5FCCC6DD-3EC0-4DD5-A295-A8A495F21CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FCCC6DD-3EC0-4DD5-A295-A8A495F21CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCCC6DD-3EC0-4DD5-A295-A8A495F21CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCCC6DD-3EC0-4DD5-A295-A8A495F21CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCCC6DD-3EC0-4DD5-A295-A8A495F21CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1658FD3-D071-464C-8606-DB1273CA9543}
+	EndGlobalSection
+EndGlobal
